@@ -52,12 +52,12 @@ REPORT
 Social Spark is a simple Android application developed using Kotlin in Android Studio. The purpose of the app is to help users maintain social interaction by suggesting activities based on the time of day entered by the user.The app was created to assist users in staying socially active during busy days. It allows users to input a time of day such as “Morning”, “Midday”, or “Afternoon” and receive a relevant social suggestion.
 FEATURES
 A text input field where the user enters the time of day
-A “Suggest” button that generates a social activity
+A “Get Social Spark” button that generates a social activity
 A result display area showing the suggestion
 A “Reset” button to clear input and output
 Error handling for incorrect input
 
-The user types a time of day into the input field and presses the “Suggest” button. The app uses if statements to check the input:
+The user types a time of day into the input field and presses the “Get Social Spark” button. The app uses if statements to check the input:
 
 If the input is “Morning”, a morning activity is displayed
 If the input is “Midday”, a midday activity is displayed
